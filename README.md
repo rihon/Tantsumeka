@@ -33,8 +33,29 @@ NB: Zone.ee-s on võimalus ühendust võtta info@zone.ee ning mõlema domeeni ha
 
 1. Minge FTP kaudu serverisse, kus leht üleval on   
 2. Minge kausta public_html   
-3. Laadige alla kaust, mis on seotud wordpressi lehega.   
-4. Vajadusel registreerige uus domeen   
-5. Laadige failid üles uude serveri   
-6. wp-config.php kaudu tuleb uuendada wordpressi  andmebaasi nime, kasutajanime ning parooli   
-7. Vaheta nimeserverid õigete vastu   
+3. Laadige alla kaust, mis on seotud wordpressi lehega.  
+4. Eksportige Wordpressi andmebaas 
+5. Looge andmebaas uude domeeni
+6. Uuendage wp-config.php andmeid
+6.1 Muutke andmebaasi nime   
+
+```
+define('DB_NAME', 'db_name');
+```  
+db_name tuleb asendada uue andmebaasi nimega
+
+
+6.2 Muutke kasutajanime
+
+```
+define('DB_USER', 'db_user');
+```  
+db_user tuleb asendada uue andmebaasi kasutajanimega
+6.3 Muutke parool
+```
+define('DB_PASSWORD', 'db_pass');
+```  
+db_pass tuleb asendada uue andmebaasi parooliga
+
+7. Importige andmebaas
+8. Laadige üles kaust, mis on seotud wordpressi lehega uuele domeenile.
