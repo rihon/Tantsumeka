@@ -35,6 +35,7 @@ Wordpressi failide/lehe tõstmine teise serverisse
 
 1.	Mine lehele, kus antud leht üleval on, logige domeen.ee/wp-admin-ina sisse, sisestage kasutajanimi ja parool.
 2.	Valige menüüst „Pluginad“ ja seejärel „Lisa uus“.
+![alt text](plugina lisamine.jpg)
 3.	Sisestage võtmesõna „All in one wp migration“ ja paigaldage  ja lülitage sisse pildil näidatud.vasakpoolne plugin.  
 4.	Vajutage menüüs alla laetud plugina peale, seejärel „Export to“ ja valige „file“.  
 5.	Nüüd näitab plugin ära, kui suur on teie wp sisu, mille saate siis alla laadida rohelisele kastikesele vajutades, soovi korras saab ka „akna“ sulgeda ja proovida teisi exportimis valikuid.  
