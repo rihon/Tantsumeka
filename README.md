@@ -18,16 +18,6 @@ Cyberlink PowerDirector
 # Grupi liikmed
 Riho Noormets, Egert Piksar, Kert Tamm, Kevin Kodasma, Egert Klaamas
 
-# Muudetud kood
-![alt text](1Capture.PNG)
-
-```
-<a style="color: blue;" href="https://egertpiksar.ee/tantsutarbed/tantsukingad/jalamoodud/">Mõõtmise juhend</a>
-```
-
-Pildil on koht, kus me koodi muutsime
-Muutsime koodi wordpressi kaudu ning lisasime lingi ja muutsime selle värvi siniseks. Eelnevalt ei muutnud plugin linki siniseks, seega tegime seda ise.
-
 # Paigaldusjuhised
 NB: Zone.ee-s on võimalus ühendust võtta info@zone.ee ning mõlema domeeni halduri nõusolekul on võimalus tõsta leht üle teisele domeenile zone.ee poolt. 
 
