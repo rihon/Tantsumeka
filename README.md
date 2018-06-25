@@ -9,7 +9,7 @@ Luua Tantsumekale uus ja tänapäevane veebileht, mis toimiks ka nutiseadmetes. 
 
 
 # Kasutatud tehnoloogiad
-Zone-i virtuaalserver,
+Zone-i virtuaalserver, www.zone.ee
 
 
 Wordpress Versioon 4.9.6, https://codex.wordpress.org/Version_4.9.6
