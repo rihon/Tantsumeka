@@ -12,19 +12,19 @@ Luua Tantsumekale uus ja tänapäevane veebileht, mis toimiks ka nutiseadmetes. 
 Zone-i virtuaalserver, www.zone.ee
 
 
-Wordpress Versioon 4.9.6, https://codex.wordpress.org/Version_4.9.6
+[Wordpress Versioon 4.9.6](https://codex.wordpress.org/Version_4.9.6)
 
 
-Adobe Photoshop, https://www.adobe.com/ee/products/photoshop.html 
+[Adobe Photoshop](https://www.adobe.com/ee/products/photoshop.html)
 
 
-Adobe Illustrator, https://www.adobe.com/ee/products/illustrator.html
+[Adobe Illustrator](https://www.adobe.com/ee/products/illustrator.html)
 
 
-Cyberlink PowerDirector, https://www.cyberlink.com/products/powerdirector-ultra/features_en_EU.html?r=1
+[Cyberlink PowerDirector](https://www.cyberlink.com/products/powerdirector-ultra/features_en_EU.html?r=1)
 
 
-Kallyas Theme, https://themeforest.net/item/kallyas-responsive-multipurpose-wordpress-theme/4091658
+[Kallyas Theme](https://themeforest.net/item/kallyas-responsive-multipurpose-wordpress-theme/4091658)
 
 # Kasutatud pluginad
 
